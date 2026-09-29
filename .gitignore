@@ -1,0 +1,16 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary and generated files
+*.tmp
+*.temp
+*.part
+__pycache__/
+
+# Local repository metadata accidentally copied into subdirectories
+**/.git/

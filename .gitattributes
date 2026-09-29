@@ -1,0 +1,4 @@
+# Treat reference documents as binary files
+*.pdf binary
+*.pdf -diff
+*.pdf merge=ours
