@@ -1,7 +1,5 @@
-# my books
-
 ```text
-books/
+/
 ├── cloud/        
 ├── devops/       
 ├── git/          
